@@ -1,0 +1,57 @@
+Umang Dadhich
+LinkedIn: linkedin.com/in/umang-dadhich/
+Email: umangdadhich2005@gmail.com
+GitHub: github.com/Umang205
+Mobile: +91-9518192801
+
+SKILLS
+• Languages: C++, Python, Java, HTML/CSS
+• Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+• Tools/Platforms: GitHub, Power BI, MS Excel, VS Code, JupyterLab, Linux
+• Specializations: Computer Vision, Deep Learning, NLP, Reinforcement Learning, Edge Deployment
+• Soft Skills: Problem-Solving, Team Player, Adaptability, Good Communication
+
+PROJECTS
+Diabetes Risk Detector Using Machine Learning | GitHub (Nov '25)
+• Developed a supervised Machine Learning model to predict diabetes risk using patient health parameters, achieving ~82–85% accuracy on test data.
+• Performed data preprocessing, exploratory data analysis (EDA), and feature engineering, improving model performance with Precision: ~80%, Recall: ~78%, F1-Score: ~79%.
+• Valuated model performance using Confusion Matrix and ROC-AUC (~0.85), ensuring balanced classification and reliable medical risk prediction.
+Tech: Python, Pandas, Scikit-learn, version control using GitHub
+
+Predictive Maintenance System Using Machine Learning | GitHub (May '25)
+• Engineered a comprehensive predictive maintenance pipeline by leveraging ensemble ML models (Random Forest, XGBoost, Gradient Boosting) to forecast equipment failures from high-volume sensor data.
+• Secured 91% prediction accuracy for failures 48–72 hours in advance by implementing advanced feature engineering techniques (rolling statistics, FFT) on 100k+ temperature, vibration, and pressure data points.
+• Built a Flask-based REST API and real-time monitoring dashboard, supported by clear documentation and visual report for stakeholders.
+Tech: Python, Scikit-learn, Pandas, NumPy, Flask, SQLite, Matplotlib, Seaborn
+
+TRAINING
+Job Simulation – TATA GenAI Powered Data Analytics | Certificate (Feb '26)
+• Conducted comprehensive EDA to identify key factors influencing credit card delinquency.
+• Constructed predictive models (Logistic Regression, Decision Trees, Neural Networks) using GenAI-assisted tooling.
+• Produced a business-focused insight report translating AI outputs into strategic recommendations.
+• Outlined a blueprint for an AI-powered collections system ensuring transparency and compliance.
+
+C++ Programming: OOPs & Data Structures – Summer Training | Certificate (Jun '25)
+• Analyzed client telemetry data and built an insight-rich Tableau dashboard to support business performance analysis.
+• Assisted a forensic investigation by classifying and organizing Excel-based pay data for compliance review.
+• Synthesized analytical findings into data-driven recommendations for key stakeholders.
+• Completed professional modules on interview preparation, resume presentation, and consulting communication.
+
+CERTIFICATES
+• LPU’s Innotek Annual Innovation & Graduating Project Expo | LPU (May '25)
+• Cloud Computing – NPTEL (May '25)
+• ChatGPT Made Easy: AI Essentials for Beginners | Coursera (Aug '25)
+
+ACHIEVEMENTS
+• Solved 50+ problems across multiple platforms, strengthening core DSA concepts. (Aug '25)
+• Accomplished 3-star rating in Python in Hacker Rank. (Jul '25)
+
+EDUCATION
+Lovely Professional University (Phagwara, Punjab)
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.5 (Aug '23 - Present)
+
+CR International School (Rewari, Haryana)
+Higher Secondary; Percentage: 80 (Apr '22 – Mar '23)
+
+CR International School (Rewari, Haryana)
+Matriculation; Percentage: 79.8 (Apr '20 – Mar '21)
